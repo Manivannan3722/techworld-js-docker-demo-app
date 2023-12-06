@@ -1,5 +1,5 @@
 def buildApp() {
-    echo 'building the application...'
+    echo 'building the application..testing the new trigger.'
 } 
 
 def testApp() {
